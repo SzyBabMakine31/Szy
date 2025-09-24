@@ -1,4 +1,4 @@
-name: Szy
+name: SzySzy
 on:
   workflow_dispatch:
 jobs:
